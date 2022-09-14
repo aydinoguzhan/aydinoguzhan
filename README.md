@@ -1,7 +1,8 @@
 - ODTU / METU
 - Statistics and Data Analysis
-- R, Python
-- https://www.linkedin.com/in/oguzhanaydin-00/
+- R, Python, SQL
+- www.linkedin.com/in/oguzhanaydinn
+
 
 <!---
 aydinoguzhan/aydinoguzhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
