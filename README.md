@@ -1,5 +1,5 @@
-👋 Oğuzhan Aydın – a statistician passionate about turning data into insight.
-🎓 BSc & MSc in Statistics from METU
+👋 Oğuzhan Aydın – a statistician passionate about turning data into insight.  
+🎓 BSc & MSc in Statistics from METU  
 🛠  Skilled in Python, R, SQL, Power BI, and statistical modeling
 🧠 Fascinated by machine learning, time series analysis & data storytelling
 💡 Projects: Bitcoin price forecasting, disease detection with XGBoost, credit scoring models, and more
